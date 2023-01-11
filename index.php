@@ -5,6 +5,8 @@
     <title>Lingling's blog</title>
   </head>
   <body align="center">
-    <?php echo '暂无内容';?>
+    <h1>
+      <?php echo '暂无内容';?>
+    </h1>
   </body>
 </html>
